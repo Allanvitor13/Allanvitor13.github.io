@@ -1,7 +1,5 @@
 body {
     font-family: Arial, sans-serif;
-    width: 100%;
-    position: fixed;
     margin: 0;
     padding: 0;
     background-color: burlywood;
@@ -10,6 +8,8 @@ body {
 header {
     background-color: #333;
     color: #fff;
+    width: 100%;
+    position: fixed;
     padding: 5px;
     text-align: center;
 }
