@@ -42,13 +42,13 @@ footer {
     bottom: 0;
     width: 100%;
 }
-@media(max-width: 1600px){
+@media(max-width: 720px){
     main div {
         width: 45%;
     }
 
 }
-@media(max-width: 720px){
+@media(max-width: 1600px){
     main div {
         width: 100%;
     }
